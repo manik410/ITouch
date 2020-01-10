@@ -1,5 +1,5 @@
 # ITouch
 
-##A template for a shopping website
+## A template for a shopping website
 
 CLick Me()
